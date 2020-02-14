@@ -1,0 +1,12 @@
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_Core\bin\Debug\AT_Core.dll.config
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_Core\bin\Debug\AT_Core.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_Core\bin\Debug\AT_Core.pdb
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_Core\bin\Debug\EntityFramework.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_Core\bin\Debug\EntityFramework.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_Core\obj\Debug\AT_Core.csprojAssemblyReference.cache
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_Core\obj\Debug\AT_Core.csproj.CoreCompileInputs.cache
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_Core\obj\Debug\AT_Core.csproj.CopyComplete
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_Core\obj\Debug\AT_Core.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_Core\obj\Debug\AT_Core.pdb

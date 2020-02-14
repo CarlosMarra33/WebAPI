@@ -1,0 +1,86 @@
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\obj\Debug\AT_WEBMVC.csprojAssemblyReference.cache
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\obj\Debug\AT_WEBMVC.csproj.CoreCompileInputs.cache
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\ApplicationInsights.config
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\AT_WEBMVC.dll.config
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\AT_WEBMVC.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\AT_WEBMVC.pdb
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Antlr3.Runtime.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\AT_Api.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\AT_Core.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\AT_Data.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.AI.Web.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Newtonsoft.Json.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Web.Helpers.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Web.Mvc.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Web.Optimization.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Web.Razor.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Web.WebPages.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\WebGrease.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.Owin.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Owin.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Web.Http.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Web.Http.Owin.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\EntityFramework.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\AT_Api.pdb
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\AT_Api.dll.config
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\AT_Core.pdb
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\AT_Core.dll.config
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\AT_Data.pdb
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\AT_Data.dll.config
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Web.Helpers.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Web.Mvc.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Web.Optimization.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Web.Razor.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Web.WebPages.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Newtonsoft.Json.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Antlr3.Runtime.pdb
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.AI.Web.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.Owin.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Web.Http.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Web.Http.Owin.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\EntityFramework.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\obj\Debug\AT_WEBMVC.csproj.CopyComplete
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\obj\Debug\AT_WEBMVC.dll
+C:\Users\carlos.marra\Desktop\AT5_Jonh\AT5_Jonh\AT_WEBMVC\obj\Debug\AT_WEBMVC.pdb
+C:\Users\Carlos\Desktop\Nova pasta (3)\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Carlos\Desktop\Nova pasta (3)\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Carlos\Desktop\Nova pasta (3)\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Carlos\Desktop\Nova pasta (3)\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Carlos\Desktop\Nova pasta (3)\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Carlos\Desktop\Nova pasta (3)\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Carlos\Desktop\Nova pasta (3)\AT5_Jonh\AT5_Jonh\AT_WEBMVC\bin\roslyn\VBCSCompiler.exe
